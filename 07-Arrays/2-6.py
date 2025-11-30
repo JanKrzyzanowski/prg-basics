@@ -4,6 +4,9 @@ arr =[
    [0,0,0]
 ]
 
+
+
+
 for number in range(len(arr)):
     arr[number][number] = 1
 
