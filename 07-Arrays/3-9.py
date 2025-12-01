@@ -1,8 +1,15 @@
 def compare(array1, array2):
-    if array1 == array2:
-     return True 
-    else:
-       return False
+    
+    if len(array1) != len(array2):
+        return False
+    
+    
+    for i in range(len(array1)):
+        if array1[i] != array2[i]:
+            return False
+    
+    return True
+        
 
 array1= [
    "water", "book", "sky"
@@ -15,6 +22,3 @@ array2=[
 print(array1)
 print(array2)
 
-for text in 
-if len(array1) == len(array2):
-   
