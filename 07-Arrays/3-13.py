@@ -15,8 +15,8 @@ print('Number: ', number)
 
 
 print('Array: ', end = ' ')
-for number in array:
-    print(number, end = ' ')
+for element in array:
+    print(element, end = ' ')
 print ()
 
 
