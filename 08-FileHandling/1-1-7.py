@@ -13,6 +13,6 @@ file_lines = file_content.splitlines()
 # calculates the total number of cars parked
 total = 0
 for line in file_lines:
-   total += int(line)
+   total += 
 
-print('Total cars parked:', total)
+print('Total cars parked:', ...)
