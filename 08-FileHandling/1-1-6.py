@@ -13,3 +13,5 @@ list.sort(file_lines)
 # prints the array
 for line in file_lines:
    print(line)
+
+   
