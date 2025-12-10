@@ -1,0 +1,4 @@
+a& C:/Users/Jan/AppData/Local/Programs/Python/Python314/python.exe c:/Users/Jan/Desktop/data/prg/prg-basics/08-FileHandling/2-5.py
+wod
+aw
+w
