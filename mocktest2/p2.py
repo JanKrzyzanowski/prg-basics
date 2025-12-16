@@ -1,13 +1,7 @@
 def f(arr):
-    for nums in arr:
-        if arr.count(nums) == 1:
-            return nums
-        
-
-
-
-
-
+    for number in set(arr):
+        if arr.count(number):
+            return number
 
 
 if __name__ == "__main__":
