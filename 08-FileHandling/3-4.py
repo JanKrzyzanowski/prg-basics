@@ -7,7 +7,7 @@ import re # module for regular expressions
 email_file = 'report.txt'
 
 # read the content of email
-...
+with open(email_file)
 ...
 email = ... (email content)
 
